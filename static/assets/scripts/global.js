@@ -75,6 +75,27 @@ document.addEventListener('DOMContentLoaded', function (event) {
   if (themeid == 'fg') {
     themeEle.href = '/assets/styles/themes/forestGreen.css'
   }
+  if (themeid == 'basic-red') {
+    themeEle.href = '/assets/styles/themes/solid/red.css'
+  }
+    if (themeid == 'basic-orange') {
+    themeEle.href = '/assets/styles/themes/solid/orange.css'
+  }
+    if (themeid == 'basic-yellow') {
+    themeEle.href = '/assets/styles/themes/solid/yellow.css'
+  }
+    if (themeid == 'basic-green') {
+    themeEle.href = '/assets/styles/themes/solid/green.css'
+  }
+    if (themeid == 'gaybow') {
+    themeEle.href = '/assets/styles/themes/gradient/gaybow.css'
+  }
+    if (themeid == 'basic-blue') {
+    themeEle.href = '/assets/styles/themes/solid/blue.css'
+  }
+    if (themeid == 'basic-purple') {
+    themeEle.href = '/assets/styles/themes/solid/purple.css'
+  }
   if (themeid == 'light') {
     themeEle.href = '/assets/styles/theme/solid/light.css'
   }
