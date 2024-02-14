@@ -1,5 +1,1 @@
-# LyonsPaid
-
-**How to run:**
-
-1. go to website :D
+# LyonsPaid is Discontined as of: 2/14/2024
